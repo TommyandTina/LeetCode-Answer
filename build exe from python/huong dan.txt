@@ -1,0 +1,7 @@
+vào thư mục C:\Users\long.trinh-tien\AppData\Roaming\Python\Python39\Scripts để chạy pyinstaller (với máy ko quyền admin)
+pyinstaller --onefile -w "path to *.py"
+onefile giúp thành 1 file duy nhất ko phụ thuộc
+-w ko hiện cmd khi chạy
+
+command mẫu
+pyinstaller.exe --onefile -w "C:\Users\long.trinh-tien\Documents\LeetCode\build exe from python\Changename.py"
